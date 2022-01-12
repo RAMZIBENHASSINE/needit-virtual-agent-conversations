@@ -497,6 +497,14 @@
       },
       "edges": [
         {
+          "id": "dded75a924bd4cc0ba7a913fa74afadc",
+          "edgeType": "Edge",
+          "source": "886179e543a1445cba86fbdd77d7c138",
+          "target": "3f39e65e3ea64776af20a6727a984a90",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
           "id": "f670b883658d4fb4b641566360c08950",
           "edgeType": "Edge",
           "source": "fc75bf8e25114e509b57dcf0c0c14245",
@@ -664,14 +672,6 @@
             "mode": "query"
           },
           "label": "no"
-        },
-        {
-          "id": "dded75a924bd4cc0ba7a913fa74afadc",
-          "edgeType": "Edge",
-          "source": "886179e543a1445cba86fbdd77d7c138",
-          "target": "3f39e65e3ea64776af20a6727a984a90",
-          "sourcePort": "",
-          "targetPort": ""
         },
         {
           "id": "46cae8baea9e4bc19c13b3c35b0735d0",
@@ -861,14 +861,14 @@
         <sys_created_on>2022-01-12 00:17:03</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_id>a4613cfcdb4d4110073ed2984b9619b4</sys_id>
-        <sys_mod_count>46</sys_mod_count>
+        <sys_mod_count>48</sys_mod_count>
         <sys_name>Update NeedIt Records</sys_name>
         <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_740916_needit_vi">f9bfe47cdb4d4110073ed2984b961982</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt Virtual Agent Conversations">f9bfe47cdb4d4110073ed2984b961982</sys_scope>
         <sys_update_name>sys_cb_topic_a4613cfcdb4d4110073ed2984b9619b4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-12 17:07:35</sys_updated_on>
+        <sys_updated_on>2022-01-12 18:24:39</sys_updated_on>
         <triggerable_by_notification>false</triggerable_by_notification>
         <type>STANDARD</type>
         <variables/>
